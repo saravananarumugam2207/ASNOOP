@@ -1,8 +1,4 @@
 #!/bin/bash
-#Author Saravanan Arumugam
-#Released Under GNU/GPL
-#Free to Distribute / change
-#Contact GIThub.com/saravananarumugam2207
 
 
 ### default variables
